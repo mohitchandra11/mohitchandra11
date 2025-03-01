@@ -13,10 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandra11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohitchandra11&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=mohitchandra11&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohitchandra11&limit=5&theme=dark&combine_all_yearly_contributions=true)
